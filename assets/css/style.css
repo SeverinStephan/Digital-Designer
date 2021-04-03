@@ -1,0 +1,440 @@
+/*HEADER START*/
+
+body{
+    margin: 0;
+}
+
+header p{
+    font-family:'Work Sans', sans-serif;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+header h1, h2{
+    font-family:'Didact Gothic', sans-serif;
+    font-size: 5em;
+    text-align: center;
+}
+
+header article{
+    width: 400px;
+    margin: 0 auto;
+}
+
+header article h2{
+    text-align: center;
+}
+    
+
+header div{
+    padding-left: 33%;
+
+}
+
+header h1{
+    font-size: 8em;
+}
+
+/*HEADER END*/
+
+
+/*SECTION1 START*/
+
+section:first-of-type{
+    background: url(../img/portfolio2.jpg) center/cover no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+section:first-of-type h2{
+    text-align: left;
+    color: white;
+    
+}
+
+section:first-of-type h1{
+    color: gray;
+    text-align: right;
+}
+
+
+section:first-of-type p 
+{
+    color: white;
+    text-align: left;
+}
+
+section:first-of-type p:last-child {
+    text-align:right ;
+}
+
+section:first-of-type p{
+padding: 80px 0 0 80px;
+}
+
+section:first-of-type h2{
+    padding-top: 0px;
+    padding-left: 100px;
+}
+
+section:first-of-type p:first-child{
+    padding-left: 100px;
+    
+}
+
+section:first-of-type p {
+    padding-left: 100px;
+}
+
+section:first-of-type a{
+    padding-left: 100px;
+}
+
+section:first-of-type p:nth-last-child(2){
+    padding-top: 0px;
+    padding-bottom: 40px;
+}
+
+section:first-of-type h1{
+    padding-right: 100px;
+    font-size: 8em;
+}
+
+section:first-of-type a{
+    text-decoration: none;
+    color: white;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    margin-left: 100px;
+    
+}
+
+section:first-of-type a:hover{
+    background-color: white;
+    color: black;
+}
+
+/*SECTION1 END*/
+
+
+
+/*SECTION2 START*/
+
+section:nth-of-type(2){
+    background:url(../img/portfolio3.png) center/cover no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+section:nth-of-type(2) h2{
+    text-align: left;
+    color: black;
+    
+}
+
+section:nth-of-type(2) h1{
+    color: gray;
+    text-align: right;
+}
+
+
+section:nth-of-type(2) p 
+{
+    color: black;
+    text-align: left;
+}
+
+section:nth-of-type() p:last-child {
+    text-align:right ;
+}
+
+section:nth-of-type(2) p{
+padding: 80px 0 0 80px;
+}
+
+section:nth-of-type(2) h2{
+    padding-top: 0px;
+    padding-left: 100px;
+}
+
+section:nth-of-type(2) p:first-child{
+    padding-left: 100px;
+    
+}
+
+section:nth-of-type(2) p {
+    padding-left: 100px;
+}
+
+section a{
+    padding-left: 100px;
+}
+
+section:nth-of-type(2) p:nth-last-child(2){
+    padding-top: 0px;
+    
+}
+
+section:nth-of-type(2) h1{
+    padding-right: 100px;
+    font-size: 8em;
+}
+
+section:nth-of-type(2) a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 100px;
+    
+}
+
+section:nth-of-type(2) a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+/*SECTION2 END*/
+
+
+/*SECTION3 START*/
+
+
+section:nth-of-type(3){
+    background: url(../img/portfolio4.jpg) center/cover no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+section:nth-of-type(3) h2{
+    text-align: left;
+    color: white;
+    
+}
+
+section:nth-of-type(3) h1{
+    color: gray;
+    text-align: right;
+}
+
+
+section:nth-of-type(3) p 
+{
+    color: white;
+    text-align: left;
+}
+
+section:nth-of-type(3) p:last-child {
+    text-align:right ;
+}
+
+section:nth-of-type(3) p{
+padding: 80px 0 0 80px;
+}
+
+section:nth-of-type(3) h2{
+    padding-top: 0px;
+    padding-left: 100px;
+}
+
+section:nth-of-type(3) p:first-child{
+    padding-left: 100px;
+    
+}
+
+section:nth-of-type(3) p {
+    padding-left: 100px;
+}
+
+section:nth-of-type(3) a{
+    padding-left: 100px;
+}
+
+section:nth-of-type(3) p:nth-last-child(2){
+    padding-top: 0px;
+    padding-bottom: 40px;
+}
+
+section:nth-of-type(3) h1{
+    padding-right: 100px;
+    font-size: 8em;
+}
+
+section:nth-of-type(3) a{
+    text-decoration: none;
+    color: white;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    margin-left: 100px;
+    
+}
+
+section:nth-of-type(3) a:hover{
+    background-color: white;
+    color: black;
+}
+
+/*SECTION3 END*/
+
+
+/*SECTION4 START*/
+
+
+section:nth-of-type(4){
+    background: url(../img/portfolio5.png) center/cover no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+section:nth-of-type(4) h2{
+    text-align: left;
+    color: black;
+    
+}
+
+section:nth-of-type(4) h1{
+    color: gray;
+    text-align: right;
+}
+
+
+section:nth-of-type(4) p 
+{
+    color: black;
+    text-align: left;
+}
+
+section:nth-of-type(4) p:last-child {
+    text-align:right ;
+}
+
+section:nth-of-type(4) p{
+padding: 80px 0 0 80px;
+}
+
+section:nth-of-type(4) h2{
+    padding-top: 0px;
+    padding-left: 100px;
+}
+
+section:nth-of-type(4) p:first-child{
+    padding-left: 100px;
+    
+}
+
+section:nth-of-type(4) p {
+    padding-left: 100px;
+}
+
+section:nth-of-type(4) a{
+    padding-left: 100px;
+}
+
+section:nth-of-type(4) p:nth-last-child(2){
+    padding-top: 0px;
+    padding-bottom: 40px;
+}
+
+section:nth-of-type(4) h1{
+    padding-right: 100px;
+    font-size: 8em;
+}
+
+section:nth-of-type(4) a{
+    text-decoration: none;
+    color: white;
+    color: black;
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 100px;
+    
+}
+
+section:nth-of-type(4) a:hover{
+    background-color: black;
+    color: white;
+}
+
+
+/*SECTION4 END*/
+
+
+/*SECTION5 START*/
+
+section:last-of-type{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+}
+
+section:last-of-type h1{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 8em;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+section:last-of-type p{
+color: gray;
+text-align: left;
+padding-left: 250px;
+font-size: 30px;
+
+}
+
+section:last-of-type div{
+    width: 50em;
+    padding-left: 20em;
+
+}
+
+section:last-of-type div:last-of-type{
+    text-align: right;
+    
+}
+
+section:last-of-type div:last-of-type a{
+    text-decoration: none;
+    color: white;
+    padding-right: 5.2em;
+    font-size: 3em;
+}
+
+section:last-of-type div:last-of-type a:hover{
+    text-decoration: underline;
+}
+
+/*SECTION5 END*/
+
+
+/*FOOTER START*/
+
+footer div a{
+    font-size: 6em;
+    text-decoration: none;
+    color: black;
+    font-family: 'Didact Gothic', sans-serif;
+    
+    
+}
+
+footer div{
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 100px
+}
+
+footer div a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
